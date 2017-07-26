@@ -12,4 +12,4 @@ It is a temporary area on HDD we can use this area to move the files
 from branches and this area is independent from branches
 
 stash array represent --> stash@{#}
-
+....
