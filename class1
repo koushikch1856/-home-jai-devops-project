@@ -1,0 +1,23 @@
+ installation of git
+ =================== = = =
+ yum install epel-release -y
+ yum install git -y
+ mkdir project
+ cd project
+ git  init
+ git config --global user.name "koushik" 
+ git config --global user.email "koushik@gmail.com"
+ git config --global core.editor vim
+ yum install vim -y -----> if you dont have vim 
+ git config --list
+ 	or		=========>> to see the datails of git author
+ cat  /home/user/.gitconfig
+ git add index.html
+ git commit -m "adding the indexfile"
+ git log  ---> to see the commites
+ git log --oneline -2
+ git log --oneline --author="koushik"
+ git log --author="koushik"
+ git status --> compare the file status 
+ 
+
