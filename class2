@@ -1,0 +1,7 @@
+Branches in git
+==============
+
+git branch ----> to see the branch
+git branch <name> ---> to create the new branch
+git checkout <brname> --> to shift the branch
+
