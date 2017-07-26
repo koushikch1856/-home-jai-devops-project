@@ -5,3 +5,11 @@ git branch ----> to see the branch
 git branch <name> ---> to create the new branch
 git checkout <brname> --> to shift the branch
 
+Stash
+=====
+
+It is a temporary area on HDD we can use this area to move the files
+from branches and this area is independent from branches
+
+stash array represent --> stash@{#}
+
