@@ -1,0 +1,9 @@
+git push
+========
+
+create an accountin git hub in online and create a repository with our project directory path (ex: /home/user/project)
+get the link from git hub and do 
+git remote add <shtname> <link from git hub>
+git remote ----> to know the shortcut name
+git push -u <shrtcu> <branch name> ----> to push the content in to git hub
+
